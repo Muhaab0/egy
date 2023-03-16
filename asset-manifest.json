@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.97d15315.css",
-    "main.js": "/static/js/main.a68058b0.js",
+    "main.js": "/static/js/main.b4782118.js",
     "static/media/egyTecnologyVideo.mp4": "/static/media/egyTecnologyVideo.d0fe357d7d98651a813c.mp4",
     "static/media/it-company.jpg": "/static/media/it-company.eb03bb876f10c33e2d97.jpg",
     "static/media/Logo.png": "/static/media/Logo.2b359346c473f768b4d0.png",
@@ -11,10 +11,10 @@
     "static/media/servers.jpeg": "/static/media/servers.383f09c62e3befcc556e.jpeg",
     "index.html": "/index.html",
     "main.97d15315.css.map": "/static/css/main.97d15315.css.map",
-    "main.a68058b0.js.map": "/static/js/main.a68058b0.js.map"
+    "main.b4782118.js.map": "/static/js/main.b4782118.js.map"
   },
   "entrypoints": [
     "static/css/main.97d15315.css",
-    "static/js/main.a68058b0.js"
+    "static/js/main.b4782118.js"
   ]
 }
