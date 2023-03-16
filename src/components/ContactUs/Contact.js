@@ -41,7 +41,7 @@ import CallIcon from '@mui/icons-material/Call';
             </select>
 
             <textarea defaultValue="Hello Egy-Technology." name="Message" rows="4" cols="50" />
-                Message
+                
             <input type="submit" />
 
         </div>
