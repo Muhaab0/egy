@@ -7,14 +7,14 @@
     "static/media/it-company.jpg": "/egy/static/media/it-company.eb03bb876f10c33e2d97.jpg",
     "static/media/companys.jpg": "/egy/static/media/companys.2ffb32ea021a96d4895f.jpg",
     "static/media/Small-Business-IT-Support-Services-e1581368928499.jpg": "/egy/static/media/Small-Business-IT-Support-Services-e1581368928499.60ca9ef555701ee830d0.jpg",
-    "static/media/laptops.jpeg": "/egy/egy/static/media/laptops.3cfde66f87f93fbe1c7b.jpeg",
+    "static/media/laptops.jpeg": "/egy/static/media/laptops.3cfde66f87f93fbe1c7b.jpeg",
     "static/media/servers.jpeg": "/egy/static/media/servers.383f09c62e3befcc556e.jpeg",
     "index.html": "/index.html",
     "main.97d15315.css.map": "/egy/static/css/main.97d15315.css.map",
     "main.5f6eb6df.js.map": "/egy/static/js/main.5f6eb6df.js.map"
   },
   "entrypoints": [
-    "static/css/main.97d15315.css",
-    "static/js/main.5f6eb6df.js"
+    "egy/static/css/main.97d15315.css",
+    "egy/static/js/main.5f6eb6df.js"
   ]
 }
