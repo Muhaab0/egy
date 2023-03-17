@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Logo from "../../assets/Logo.jpeg"
+import Logo from "../../assets/Logo.jpg"
 import "./Nav-Bar.css"
 import MenuIcon from "@mui/icons-material/Menu"
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown"
