@@ -1,8 +1,8 @@
 {
   "homepage ": "http://Muhaab0.github.io/egy",
-  "name": "egy-tecnolgy",
+  "name": "egytechnology",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
